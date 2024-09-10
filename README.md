@@ -1,16 +1,16 @@
-### Hi there 👋
+# Welcome!
 
-<!--
-**z1od/z1od** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile! My name is Sergio. I am a programmer from Ukraine with experience in various areas of development.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Experience in programming
+- Interested in developing various platforms and systems
+- Working on creating my own solutions and tools
+
+## Contacts
+
+- **Email**: [gutsalyuk.sergio@gmail.com](mailto:gutsalyuk.sergio@gmail.com)
+- **LinkedIn**: [Sergio Gutsalyuk](https://www.linkedin.com/in/sergio-gutsalyuk)
+- **GitHub**: [gootsolution](https://github.com/gootsolution)
+- **GitLab**: [gootsolution](https://gitlab.com/gootsolution)
